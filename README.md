@@ -120,6 +120,6 @@ int main ()
 ```
 
 **HASIL**
-![hasil3](https://raw.githubusercontent.com/Amirul29/Praktikum4/master/hasil2.png)
+![hasil3](https://github.com/lailatussadah/praktikum4/blob/master/screenshoot2.png)
 
 **Terima Kasih**
