@@ -41,7 +41,7 @@ int main ()
 
 ```
 **HASIL**
-![hasil1](https://raw.githubusercontent.com/Amirul29/Praktikum4/master/hasil1.png)
+![hasil1](https://github.com/lailatussadah/praktikum4/blob/master/screen%20shoot1.png)
 
 ## Latihan2.cpp 
 
